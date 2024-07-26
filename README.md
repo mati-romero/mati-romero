@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-##_ I am Matias Romero, SOFTWARE DEVELOPER_
+## _ I am Matias Romero, SOFTWARE DEVELOPER_
 
 Passionate about technological innovation and
 systems development.
 Prepared for the teamwork and new challenges.
 
-##skills
+## Skills
 
 - PHP - Laravel - Symfony
 - Bootstrap - jQuery
