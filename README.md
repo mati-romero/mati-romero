@@ -11,7 +11,17 @@ Prepared for the teamwork and new challenges.
 
 [Web site](https://mati-romero.github.io/Curriculum-vitae/)
 
-## Education
+## Education 
+
+##### 📜 Full Stack Developer PHP - UCA
+Desarrollo tanto Front End como Back End utilizando PHP y Laravel.
+_2022 - 2023_
+
+##### 📜 Gestión Ágil de Proyectos SCRUM - UCC
+_2023_
+
+##### 📜 Maquetación web dinámicas con JS y jQuery - CREHANA
+_2020_
 
 ## Skills  🏋️
 
