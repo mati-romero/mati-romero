@@ -7,11 +7,11 @@ Prepared for the teamwork and new challenges.
 
 ## Contact 💬 
 
-[LinkedIn](https://www.linkedin.com/in/mati-romero/,)
+🌐 [LinkedIn](https://www.linkedin.com/in/mati-romero/,)
 
-[Web site](https://mati-romero.github.io/Curriculum-vitae/)
+🌐 [Web site](https://mati-romero.github.io/Curriculum-vitae/)
 
-## Education 
+## Education 📚
 
 ##### 📜 Full Stack Developer PHP - UCA
 Desarrollo tanto Front End como Back End utilizando PHP y Laravel.
