@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mati-romero/">LinkedIn</a>
   ·
   <a href="https://github.com/">GitHub</a>
   ·
-  <a href="mailto:TU_EMAIL">Email</a>
+  <a href="mailto:matias.1993.romero@gmail.com">Email</a>
 </p>
 
 ---
