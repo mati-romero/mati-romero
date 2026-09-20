@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mati-romero/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mati-romero/" target="_blank">LinkedIn</a>
   ·
-  <a href="https://matias-romero.rocketcat.com.ar/">My website</a>
+  <a href="https://matias-romero.rocketcat.com.ar/" target="_blank">My website</a>
   ·
   <a href="mailto:matias.1993.romero@gmail.com">Email</a>
 </p>
@@ -220,7 +220,7 @@ I'm open to **development opportunities, freelance projects and collaborations**
   <img src="https://img.shields.io/badge/Email-293241?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://matias-romero.rocketcat.com.ar/">
+<a href="https://matias-romero.rocketcat.com.ar/" target="_blank">
   <img src="https://img.shields.io/badge/My%20website-293241?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
