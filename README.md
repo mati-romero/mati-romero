@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mati-romero/">LinkedIn</a>
   ·
-  <a href="https://github.com/">GitHub</a>
+  <a href="https://matias-romero.rocketcat.com.ar/">My website</a>
   ·
   <a href="mailto:matias.1993.romero@gmail.com">Email</a>
 </p>
@@ -26,23 +26,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer from Córdoba, Argentina**, passionate about building modern, functional and user-focused web applications.
+I'm a **Full Stack Developer from Córdoba, Argentina**, focused on creating clean, functional and user-friendly web applications.
 
-My main focus is **Frontend development with React**, while also having experience working on the backend with **PHP, Laravel, Symfony and MySQL**.
+My main focus is Frontend Development, particularly with React and JavaScript, while also having experience building backend applications with PHP, Laravel, Symfony and MySQL.
 
-I enjoy understanding how things work, solving problems and continuously improving my development skills.
-
-```javascript
-const matias = {
-  location: "Córdoba, Argentina",
-  role: "Full Stack Developer",
-  focus: ["Frontend", "React", "Web Development"],
-  backend: ["PHP", "Laravel", "Symfony"],
-  database: ["MySQL"],
-  currentlyLearning: ["Vite", "Modern JavaScript", "React"],
-  mindset: "Always learning 🚀"
-};
-```
+I enjoy turning ideas into practical solutions, understanding how things work under the hood, and continuously learning new technologies to improve the way I build software.
 
 ---
 
@@ -202,15 +190,6 @@ I'm particularly interested in understanding **why** a solution works before thi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&hide_border=true&theme=transparent" height="170">
-</p>
-
----
-
 ## 🌱 Beyond Code
 
 I'm interested in continuously improving both my **technical and professional skills**.
@@ -233,16 +212,16 @@ I'm open to **development opportunities, freelance projects and collaborations**
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/mati-romero/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-293241?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:TU_EMAIL">
+<a href="mailto:matias.1993.romero@gmail.com">
   <img src="https://img.shields.io/badge/Email-293241?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://github.com/TU_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-293241?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://matias-romero.rocketcat.com.ar/">
+  <img src="https://img.shields.io/badge/My%20website-293241?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 </p>
@@ -254,5 +233,5 @@ I'm open to **development opportunities, freelance projects and collaborations**
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  Thanks for visiting my profile!
 </p>
