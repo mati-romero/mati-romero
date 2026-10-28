@@ -11,7 +11,7 @@
 <h1 align="center">Hi, I'm Matías Romero 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> · Frontend · React · PHP · Laravel
+  <strong>Full Stack Developer</strong> · React · Next.js · TypeScript · Java · Spring Boot · .NET
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer from Córdoba, Argentina**, focused on creating clean, functional and user-friendly web applications.
+I'm a **Full Stack Developer from Córdoba, Argentina**, with experience building end-to-end features, from reusable frontend interfaces to APIs and backend services.
 
-My main focus is Frontend Development, particularly with React and JavaScript, while also having experience building backend applications with PHP, Laravel, Symfony and MySQL.
+On the frontend I work mainly with **React, Next.js and TypeScript**, and on the backend with **Java / Spring Boot, C# / ASP.NET Core, Node and PHP (Laravel, Symfony)**. I design backend services following **Hexagonal Architecture, Ports and Adapters and SOLID principles**.
 
 I enjoy turning ideas into practical solutions, understanding how things work under the hood, and continuously learning new technologies to improve the way I build software.
 
@@ -39,19 +39,19 @@ I enjoy turning ideas into practical solutions, understanding how things work un
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,html,css,bootstrap" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,php,laravel,symfony,mysql,graphql" />
 </p>
 
 ### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
 </p>
 
 ---
@@ -64,13 +64,13 @@ I enjoy turning ideas into practical solutions, understanding how things work un
 
 ### 🎨 Frontend Development
 
-* Responsive web interfaces
-* React applications
-* JavaScript development
-* Component-based architecture
-* UI/UX implementation
-* Bootstrap & CSS
-* Performance optimization
+* React & Next.js applications
+* TypeScript & JavaScript development
+* Reusable, scalable components
+* Migrations to Next.js (performance & SEO)
+* Responsive interfaces with Bootstrap & CSS
+* UI implementation from Figma designs
+* Performance optimization (Lighthouse)
 
 </td>
 
@@ -78,13 +78,13 @@ I enjoy turning ideas into practical solutions, understanding how things work un
 
 ### ⚙️ Backend Development
 
-* PHP applications
-* Laravel
-* Symfony
-* REST APIs
-* MySQL databases
-* CRUD systems
-* Server-side development
+* Java & Spring Boot
+* C#, ASP.NET Core, Entity Framework Core & Minimal APIs
+* Node, PHP, Laravel & Symfony
+* REST & GraphQL APIs
+* Hexagonal / Clean Architecture & DDD
+* MySQL & SQL databases
+* API testing & documentation with Postman
 
 </td>
 </tr>
@@ -94,11 +94,34 @@ I enjoy turning ideas into practical solutions, understanding how things work un
 
 ## 💼 Experience & Background
 
-I have worked on web development projects involving both **frontend and backend technologies**, combining user interface development with server-side logic and databases.
+**Full Stack Developer · Gama S.A.** — *Aug 2025 – Sep 2026*
 
-My academic background includes studies in **Systems Analysis / Computer Systems at Universidad Nacional de Córdoba**, where I developed a strong foundation in programming, databases, software development and computer systems.
+* Developed end-to-end features using React, TypeScript, Next.js, Java, Node, Spring Boot and ASP.NET Core.
+* Built APIs and backend services using Hexagonal Architecture, Ports and Adapters and SOLID principles.
+* Implemented tests, conducted code reviews, refactored code and took part in deployments under Scrum.
 
-I've also gained practical experience working with technologies such as **Laravel, Symfony, PHP, JavaScript, React, MySQL, HTML and CSS**.
+**Full Stack Developer · Traychi** — *Nov 2024 – Aug 2025*
+
+* Developed web interfaces with React, TypeScript and JavaScript using reusable, scalable components.
+* Contributed to migrating applications to Next.js, improving performance and search engine visibility.
+* Integrated APIs with the backend team (Spring Boot, ASP.NET Core, Node), working with Scrum, Git and Jira.
+
+**Full Stack Developer · Universidad Católica de Córdoba** — *Jun 2022 – May 2025*
+
+* Developed internal applications using React, TypeScript, Node, PHP, Laravel and Symfony.
+* Participated in the full development lifecycle, from analysis and planning to testing and production deployments.
+* Helped digitize and optimize administrative processes through web solutions.
+
+**Web Developer · Fundación Vicentina** — *Dec 2020 – Mar 2024*
+
+* Developed and maintained the institutional website using HTML, CSS, Bootstrap, JavaScript and jQuery.
+* Improved accessibility and loading times, and managed hosting, domains and deployments on Hostinger.
+
+My academic background includes studies in the **Computer Science Degree Program at Universidad Nacional de Córdoba** (2014 – 2017).
+
+**Certifications & Courses:** SQL and MySQL (Platzi, 2024) · PHP Full Stack Backend Developer (UCA, 2023) · Agile Project Management with Scrum (UCC, 2023) · PHP Full Stack Frontend Developer (UCA, 2022)
+
+**Languages:** Spanish (Native) · English (B1)
 
 ---
 
@@ -107,22 +130,22 @@ I've also gained practical experience working with technologies such as **Larave
 I'm continuously expanding my knowledge and improving my development workflow.
 
 ```text
-React
- ├── Components
- ├── Hooks
- ├── State Management
- └── Modern Patterns
+Architecture
+ ├── Hexagonal Architecture
+ ├── Clean Architecture
+ ├── Domain-Driven Design
+ └── SOLID Principles
 
-JavaScript
- ├── ES6+
- ├── Async / Await
- ├── APIs
- └── Clean Code
+Backend
+ ├── Spring Boot
+ ├── ASP.NET Core
+ ├── GraphQL
+ └── Docker
 
 Frontend
- ├── Vite
+ ├── Next.js
+ ├── TypeScript
  ├── Performance
- ├── Responsive Design
  └── Accessibility
 ```
 
@@ -196,12 +219,12 @@ I'm interested in continuously improving both my **technical and professional sk
 
 Some areas I'm currently exploring:
 
-* ⚛️ Modern React development
-* ⚡ Vite & frontend tooling
-* 🧱 Software architecture
-* 🔌 API integrations
-* 🎨 UI/UX
-* 🧪 Testing & QA
+* 🧱 Software architecture & Domain-Driven Design
+* 🔌 API design (REST & GraphQL)
+* 🐳 Docker & deployment workflows
+* 🧪 Testing & code quality
+* 🤖 AI-assisted development (GitHub Copilot, ChatGPT, Gemini, prompt engineering)
+* 📋 Agile teams with Scrum, Jira & Trello
 * 🌐 Full Stack development
 
 ---
